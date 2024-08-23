@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-advance-filtering/static/css/main.a4c892a4.css",
+    "main.js": "/react-advance-filtering/static/js/main.820beae2.js",
+    "index.html": "/react-advance-filtering/index.html",
+    "main.a4c892a4.css.map": "/react-advance-filtering/static/css/main.a4c892a4.css.map",
+    "main.820beae2.js.map": "/react-advance-filtering/static/js/main.820beae2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4c892a4.css",
+    "static/js/main.820beae2.js"
+  ]
+}
